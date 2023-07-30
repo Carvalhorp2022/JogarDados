@@ -1,0 +1,15 @@
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\bin\Debug\net7.0\JogarDados.exe
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\bin\Debug\net7.0\JogarDados.deps.json
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\bin\Debug\net7.0\JogarDados.runtimeconfig.json
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\bin\Debug\net7.0\JogarDados.dll
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\bin\Debug\net7.0\JogarDados.pdb
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.csproj.AssemblyReference.cache
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.AssemblyInfoInputs.cache
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.AssemblyInfo.cs
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.dll
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\refint\JogarDados.dll
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.pdb
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\JogarDados.genruntimeconfig.cache
+C:\Users\RodrigoPereiradeCarv\JogarDados\JogarDados\obj\Debug\net7.0\ref\JogarDados.dll
